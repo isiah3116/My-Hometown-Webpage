@@ -1,0 +1,166 @@
+body{
+    width: 720px;
+    height: 343px;
+    background-color: white;
+    margin-left: 100px;
+    text-align: center;
+}
+
+img{
+    width: 100x;
+}
+.ac{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+}
+.ac:hover{
+    width: 800px;
+    height: 800px;
+}
+.fc{
+    width: 110px;
+    height: 100px;
+    border-radius: 100%;
+}
+.fc:hover{
+    width: 800px;
+    height: 800px;
+}
+.cc{
+    width: 110px;
+    height: 100px;
+    border-radius: 100%;
+    margin-right: 35px;
+}
+.cc:hover{
+    width: 800px;
+    height: 800px;
+}
+.hero{
+    margin-left:0px;
+    text-align:;
+    background-image: url(./images/nassau2.jpg);
+    width: 720px;
+    height: 343px;
+    background-size: cover;
+    margin-bottom: -25px;
+    color: white;
+
+}
+h1{
+
+position: absolute;
+width: 240px;
+height: 75px;
+left: 320px;
+top: 0px;
+opacity: 0.75;
+background: #1D3557;
+border-radius: 10px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 37px;
+text-align: center;
+
+color: #FFFFFF;
+}
+h2{
+    background: #1D3557;
+    opacity: 0.75;
+    height: 120px;
+    border-radius: 10px;
+    position: absolute;
+    width: 355px;
+    height: 75px;
+    left: 265px;
+    top: 85px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 700;
+font-size: 18.72px;
+line-height: 22px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+}
+
+.act{
+    background-color: #F1FAEE;
+    padding-top: 5px;
+}
+
+.activities{
+    width: 720px;
+    height: 378px;
+    top: 343px;
+    padding:;
+    display: flex;
+
+
+}
+.arc{
+    Width: 198px;
+    Height: 226px;
+    text-align: left;
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: start;
+    margin:0 0 0 20px;
+    padding: 5px 20px 0 -50px;
+    
+}
+.Fort{
+    Width: 198px;
+    Height: 226px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    padding: 5px 20px 0 0;
+}
+.steps{
+    Width: 198px;
+    Height: 226px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: end;
+    margin: o auto;
+    padding: 5px 20px 0 0;
+}
+.card{
+    background-color: #A8DADC;
+    width: 500px;
+    height: 400px;
+    top: 721px;
+    border: 1px solid white;
+    border-radius: 20px;
+    display: flex;
+    flex-direction:;
+    text-align: center;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+    margin: 20px 80px;
+}
+.cd{
+    background-color: white;
+    border: 2 solid white;
+    padding: 15px;
+}
+
+.guide{
+    width: 200px;
+    height: 300px;
+    margin-right: 10px;
+}
